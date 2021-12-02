@@ -1,0 +1,17 @@
+
+.Photo{
+    background-image: url('https://avatars.githubusercontent.com/u/33756113?v=4');
+}
+
+.project1{
+    background-image: url('https://github.com/thehaqua/MyPortfolio/blob/main/assets/img/dad_screenshot.png?raw=true');
+    cursor: none;    
+}
+.project2{
+    background-image: url('https://user-images.githubusercontent.com/84878209/136660765-12d81d32-46c3-4ce4-8889-f69e1bb81192.png');
+    cursor: none;
+}
+.project3{
+    background-image: url('https://github.com/thehaqua/MyPortfolio/blob/main/assets/img/calsc.png?raw=true');
+    cursor: none;
+}
